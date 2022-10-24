@@ -1,0 +1,110 @@
+[
+    {
+    "id": 1,
+    "title": "HTML for Beginners",
+    "price": 2000,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "men's clothing",
+    "image": "https://m.media-amazon.com/images/I/41-1hZyYXxL._SY200_.png",
+    "rating": {
+    "rate": 4.1,
+    "count": 259
+    }
+    },
+    {
+    "id": 2,
+    "title": "CSS for Beginners",
+    "price": 2500,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "https://i.ytimg.com/vi/1Rs2ND1ryYc/maxresdefault.jpg",
+    "rating": {
+    "rate": 4.7,
+    "count": 500
+    }
+    },
+    {
+    "id": 3,
+    "title": "JS for Beginners",
+    "price": 4500,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "men's clothing",
+    "image": "https://www.internetacademy.co.in/_assets/img/what-you-can-do-with-javascript.jpg",
+    "rating": {
+    "rate": 2.1,
+    "count": 430
+    }
+    },
+    {
+    "id": 4,
+    "title": "PHP for Beginners",
+    "price": 6500,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "jewelery",
+    "image": "https://www.fossmint.com/wp-content/uploads/2020/03/Best-PHP-Courses-for-Beginners.png",
+    "rating": {
+    "rate": 4.6,
+    "count": 400
+    }
+    },
+    {
+    "id": 5,
+    "title": "Laravel for Beginners",
+    "price": 8000,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "jewelery",
+    "image": "https://www.venturelessons.com/wp-content/uploads/2020/06/Laravel-courses.jpg",
+    "rating": {
+    "rate": 3.9,
+    "count": 70
+    }
+    },
+    {
+    "id": 6,
+    "title": "React for Beginners",
+    "price": 9999,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "jewelery",
+    "image": "https://www.cdmi.in/courses@2x/react-js-training-institute.jpg",
+    "rating": {
+    "rate": 3,
+    "count": 400
+    }
+    },
+    {
+    "id": 7,
+    "title": "Python for Beginners",
+    "price": 10000,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "jewelery",
+    "image": "https://distancelearning-images.s3.eu-west-2.amazonaws.com/product-images/600-600/Python-for-Beginners-L3-1200x600.jpg",
+    "rating": {
+    "rate": 1.9,
+    "count": 100
+    }
+    },
+    {
+    "id": 8,
+    "title": "WordPress for Beginners",
+    "price": 6500,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "electronics",
+    "image": "https://content.websitelibrary.com.au/sites/wsl/images/featured/wordpress-course-for-beginners.jpeg",
+    "rating": {
+    "rate": 3.3,
+    "count": 203
+    }
+    },
+    {
+    "id": 9,
+    "title": "Django for Beginners",
+    "price": 9999,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "electronics",
+    "image": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/10590/course_10590_image.png",
+    "rating": {
+    "rate": 2.9,
+    "count": 470
+    }
+    }
+    ]
