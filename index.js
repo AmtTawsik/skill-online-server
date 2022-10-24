@@ -8,7 +8,7 @@ const Port = process.env.Port || 5000;
 const courses = require("./Data/course.json");
 
 app.get("/", (req, res) => {
-    res.send("Now server is running");
+    res.send("Now the server is running");
 });
 
 app.get("/courses", (req, res) => {
@@ -19,7 +19,7 @@ app.get("/courses/:id", (req, res) => {
     const id = req.params.id;
     const getSingleCourse = courses?.find((c) => c.id == id);
     if (!getSingleCourse) {
-      res.send("Porduct khuje pai nai");
+      res.send("Course not found");
     }
     res.send(getSingleCourse);
 });
@@ -32,5 +32,7 @@ app.get("/category/:name", (req, res) => {
 
 
 app.listen(Port, () => {
-    console.log("server is running", Port);
+    console.log("server is running in", Port);
 });
+
+module.exports = app;
