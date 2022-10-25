@@ -17,6 +17,11 @@ app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
+// get all data here
+app.get("/category", (req, res) => {
+  res.send(courses);
+});
+
 // get data by id
 app.get("/courses/:id", (req, res) => {
     const id = req.params.id;
@@ -28,10 +33,11 @@ app.get("/courses/:id", (req, res) => {
 });
 
 
-// get data by catagory name
+// get data by category name
+
 app.get("/category/:name", (req, res) => {
     const name = req.params.name;
-    const getCategory = courses?.filter((c) => c.category == name);
+    const getCategory = courses?.find((c) => c.category == name);
     res.send(getCategory);
 });
 
